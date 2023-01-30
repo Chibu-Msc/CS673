@@ -3,7 +3,7 @@ package org.example;
 import java.util.ArrayList;
 
 public class Answer5 {
-    public void combiningList(){
+    public void combiningLists(){
         ArrayList<String> letters = new ArrayList<>();
         letters.add("a");
         letters.add("b");

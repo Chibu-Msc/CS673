@@ -15,9 +15,9 @@ public class Main {
         Answer4 answer4 = new Answer4();
         answer4.isPalindrome("mom");
 
-        System.out.println("Question 5:");
+        System.out.println("\nQuestion 5:");
         Answer5 answer5 = new Answer5();
-        answer5.combiningList();
+        answer5.combiningLists();
 
         System.out.println("\nQuestion 6:");
         Answer6 answer6 = new Answer6();

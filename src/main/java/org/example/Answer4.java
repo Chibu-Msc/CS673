@@ -11,6 +11,5 @@ public class Answer4 {
                 System.out.println("It is a Palindrome");
             }
         }
-        System.out.println();
     }
 }
